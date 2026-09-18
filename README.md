@@ -5,20 +5,20 @@ A fast-paced 2D action-platformer built for the **H-BRS Game Jam 2023**, where i
 Beat the evil Mushroom King and restore light to a world drowning in shadow.
 
 <p align="center">
-  <img src="img/screenshot2.png" width="600" alt="Holy Knight screenshot 1">
+<img src="img/screenshot2.png" width="800" alt="Holy Knight screenshot 1">
 </p>
 
 ## Built in 10 Days
 
-Made from **August 3–12, 2023** - built solo in 10 days.
+Made from **August 3-12, 2023** - built solo in 10 days.
 
 ## About
 
 The Mushroom King has drained the world of its light using shadow magic. As the Holy Knight, you must fight through skeletons and shadow-flyers, solve light-based puzzles, and take down the King in a final boss fight to bring light back to the world.
 
 <p align="center">
-  <img src="img/screenshot5.png" width="49%" alt="Holy Knight screenshot 2">
-  <img src="img/screenshot4.png" width="49%" alt="Holy Knight screenshot 3">
+<img src="img/screenshot5.png" width="49%" alt="Holy Knight screenshot 2">
+<img src="img/screenshot4.png" width="49%" alt="Holy Knight screenshot 3">
 </p>
 
 ## Controls
@@ -50,7 +50,7 @@ The Mushroom King has drained the world of its light using shadow magic. As the 
 The Mushroom King channels shadow energy to darken the world and summons minions to aid him. Reflect his orbs by timing your attacks to weaken him and restore the light.
 
 <p align="center">
-  <img src="img/screenshot3.png" width="500" alt="Holy Knight screenshot 4">
+<img src="img/screenshot3.png" width="700" alt="Holy Knight screenshot 4">
 </p>
 
 ## Play
@@ -60,6 +60,6 @@ The Mushroom King channels shadow energy to darken the world and summons minions
 
 ## About the Jam
 
-Made for the first official **H-BRS Game Jam**, hosted by H-BRS Game Dev and Againstyou, running August 3–6, 2023. Entries had to creatively incorporate a theme announced at the start of the jam.
+Made for the first official **H-BRS Game Jam**, hosted by H-BRS Game Dev and Againstyou, running August 3-6, 2023. Entries had to creatively incorporate a theme announced at the start of the jam.
 
 Jam page: [itch.io/jam/hbrs-game-jam](https://itch.io/jam/hbrs-game-jam)
