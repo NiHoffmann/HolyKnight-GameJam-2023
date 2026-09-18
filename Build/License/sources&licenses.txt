@@ -1,0 +1,41 @@
+Unity Asset Store:
+Cartoon FX Remaster Free
+2D Pixel Item Asset Pack
+Monsters_Creatures_Fantasy
+GothicVania Town
+Warrior Free Asset
+Mesh Terrain Editor Free
+Pixel Art Platformer - Village Props (LicenseCainos.txt)
+_______________for all Untiy assets without their own license___________
+license (Unity Store Default): https://unity.com/legal/as-terms
+
+________________________________________________________________________
+
+All Sounds from: mixkit.co
+license:
+https://mixkit.co/license/#sfxFree
+
+sounds:
+https://assets.mixkit.co/active_storage/sfx/1696/1696.wav
+https://assets.mixkit.co/active_storage/sfx/2800/2800.wav
+https://assets.mixkit.co/active_storage/sfx/2589/2589.wav
+https://assets.mixkit.co/active_storage/sfx/1261/1261.wav
+https://assets.mixkit.co/active_storage/sfx/883/883.wav
+https://assets.mixkit.co/active_storage/sfx/3213/3213.wav
+https://assets.mixkit.co/active_storage/sfx/1783/1783.wav 
+https://assets.mixkit.co/active_storage/sfx/2414/2414.wav
+https://assets.mixkit.co/active_storage/sfx/2240/2240.wav
+https://assets.mixkit.co/active_storage/sfx/2433/2433.wav
+https://assets.mixkit.co/active_storage/sfx/883/883.wav
+https://assets.mixkit.co/active_storage/sfx/3109/3109.wav
+https://assets.mixkit.co/active_storage/sfx/2149/2149.wav
+https://assets.mixkit.co/active_storage/sfx/1487/1487.wav
+https://assets.mixkit.co/active_storage/sfx/2765/2765.wav
+https://assets.mixkit.co/active_storage/sfx/2792/2792.wav
+https://assets.mixkit.co/active_storage/sfx/2985/2985.wav
+
+menu&end screen imaged:
+https://hotpot.ai/
+prompts:
+dark forest big mushroom holy knigh
+dark forest big mushroom women sword

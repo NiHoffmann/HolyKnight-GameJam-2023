@@ -1,0 +1,53 @@
+Interactions:
+
+Restart(Current Level): Esc
+
+Boxes(Break): Attack
+
+Walls(Walljump "once"): Space
+
+Wall-Corner("Pull up"): Space
+
+Dash: Shift (also works in the air)
+
+Attack: Left Mouse (also works in the air/while dashing)
+
+Jump: Space
+
+Walk: A/D
+
+Statue(Aktivate) :E
+
+Runestone(Level Finish):E
+
+Keys(pickup): E
+
+Magic wall(Require Keys): E
+
+Heart(pickup): walkover
+
+Enemies explained:
+
+Skeletons: Can't be killed only weakness is light
+
+Blackflyers: Can be stunned by attacking (light disappears)
+
+    Are vulnerable to bright light (statue) -> Black particles show invulnerability
+
+    Red/Blue light shows if a bird is attacking (Red is attacking)
+
+Brownflyers: Disable Street lights
+
+     can be stunned (for a couple of seconds) by attacking
+
+Streetlight: will reenable if brown-flyers weren't close for a set period of time
+
+Boss-Fight: Reflect orbs by timing an attack
+
+    The Evil mushroom king utilizes Shadowenergie and turns the world dark
+
+    Weaken the Mushroom king to restore light to the world
+
+    spawns minions to support him in his fight
+
+Keys: can be dropped by killing skeletons
