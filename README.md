@@ -8,9 +8,9 @@ Beat the evil Mushroom King and restore light to a world drowning in shadow.
 <img src="img/screenshot2.png" width="800" alt="Holy Knight screenshot 1">
 </p>
 
-## Built in 10 Days
+## Built in 3 Days
 
-Made from **August 3-12, 2023** - built solo in 10 days.
+Made from **August 3-6, 2023** - built solo in 10 days.
 
 ## About
 
