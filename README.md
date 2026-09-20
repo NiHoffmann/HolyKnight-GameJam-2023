@@ -1,6 +1,6 @@
 # Holy Knight
 
-A fast-paced 2D action-platformer built for the **H-BRS Game Jam 2023**, where it placed **3rd out of 8 entries**.
+A fast-paced 2D action-platformer built for the [**H-BRS Game Jam 2023**](https://www.h-brs.de/de/ivc/news/premiere-des-gamejam-der-h-brs-ein-voller-erfolg), where it placed **3rd out of 8 entries**.
 
 Beat the evil Mushroom King and restore light to a world drowning in shadow.
 
