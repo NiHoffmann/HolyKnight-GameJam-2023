@@ -10,7 +10,7 @@ Beat the evil Mushroom King and restore light to a world drowning in shadow.
 
 ## Built in 3 Days
 
-Made from **August 3-6, 2023** - built solo in 10 days.
+Made from **August 3-6, 2023** - built solo in 3 days.
 
 ## About
 
