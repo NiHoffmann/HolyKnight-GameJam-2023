@@ -1,3 +1,5 @@
+> **Note:** Source code and assets are not public due to redistribution and licensing concerns. Only the compiled build is provided.
+> 
 # Holy Knight
 
 A fast-paced 2D action-platformer built for the [**H-BRS Game Jam 2023**](https://www.h-brs.de/de/ivc/news/premiere-des-gamejam-der-h-brs-ein-voller-erfolg), where it placed **3rd out of 8 entries**.
